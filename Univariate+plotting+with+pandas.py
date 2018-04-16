@@ -77,3 +77,7 @@ reviews['points'].value_counts().sort_index().plot.area()
 
 reviews[reviews['price'] < 200]['price'].plot.hist() #using histogram, will be analyzing pokemon sets after this
 
+reviews['province'].value_counts().head(10).plot.pie()
+
+plt.gca().set_aspect('equal')
+
