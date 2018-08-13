@@ -5,4 +5,5 @@ Links: https://www.kaggle.com/learn/data-visualisation
 This repo also includes some visualization done on Pokemon datasets.
 All codes are written on Jupyter notebook with library imports.
 
-seaborn example gallery links: https://seaborn.pydata.org/examples/index.html#
+seaborn gallery link: https://seaborn.pydata.org/examples/index.html#
+Python chart gallery link: https://python-graph-gallery.com/
